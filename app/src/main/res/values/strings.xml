@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VideoTest</string>
+    <string name="title_dynamic_api">HelloModule</string>
+</resources>
